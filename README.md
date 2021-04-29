@@ -1,1 +1,1 @@
-# Curso de Javascript e TypeScript da Udemy
+# Curso de JavaScript e TypeScript da Udemy
