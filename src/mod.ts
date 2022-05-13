@@ -1,6 +1,5 @@
 export default () => {
 
-    console.log('Oi');
+    console.log('Hello World!');
 
 };
-    
